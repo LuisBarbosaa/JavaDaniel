@@ -1,5 +1,4 @@
-package src;
-
+package exe2;
 public class Cliente {
 
     public int numeroConta, numeroAgencia;

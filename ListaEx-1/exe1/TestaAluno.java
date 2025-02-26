@@ -1,4 +1,4 @@
-package src;
+package exe1;
 public class TestaAluno {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno(101, "João", 20, 7.5f, 6.0f);
