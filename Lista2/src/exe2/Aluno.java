@@ -3,8 +3,10 @@ public class Aluno {
     private int nroAluno, idade;
     private String nome;
     private float p1, p2;
+
     public Aluno() {
     }
+
     public Aluno(int nroAluno, int idade, String nome, float p1, float p2) {
         this.setNroAluno(nroAluno);
         this.idade = idade;

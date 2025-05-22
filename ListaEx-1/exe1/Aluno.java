@@ -1,6 +1,5 @@
 package exe1;
 
-
 public class Aluno {
     public int numeroAluno, idade;
     public String nome;
